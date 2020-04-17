@@ -1,0 +1,168 @@
+1. Question
+Which of the following statements is true?
+
+1.  BeanFactory implements ApplicationContext
+2.  BeanFactory extends ApplicationContext.
+3.  ApplicationContext extends BeanFactory.
+4.  ApplicationContext implements BeanFactory.
+5.  None of these.
+
+2. Question
+Which of the following is not a component of the Spring framework?
+
+1.  None of these.
+2.  Spring MVC
+3.  O/R Integration
+4.  HTML/JSP
+5.  AOP
+
+3. Question
+@RequestMapping annotation is used to map a HTTP request method (GET or POST) to a specific class or method in the controller which will handle the respective request?
+
+1.  true
+2.  false
+
+4. Question
+Which of the following layers the @Controller annotation is used in?
+
+1.  Service layer.
+2.  Presentation layer.
+3.  Business layer.
+4.  Session layer.
+5.  None of these.
+
+5. Question
+Which of the following classes can you use for executing the  SQL queries in Spring?
+
+1.  None of these.
+2.  DBHelper.
+3.  DBTemplate
+4.  JdbcTemplate.
+5.  JDBCHelper.
+
+6. Question
+Which of the following correctly defines the Spring?
+
+1.  A licensed framework.
+2.  None of these.
+3.  A free framework.
+4.  A properietary framework.
+5.  An open source framework.
+
+7. Question
+Which of the following is an IOC or Dependency injection?
+
+1.  Java Module
+2.  Framework
+3.  None of these.
+4.  ORM Framework
+5.  Design Pattern
+
+8. Question
+Which of the following is true for Controllers in Spring?
+
+1.  An abstract class.
+2.  Concrete class.
+3.  Final class.
+4.  An interface.
+5.  None of these.
+
+9. Question
+Which of the following correctly mentions the Autowire types?
+
+1.  byName , byType, constructor and autodetect.
+2.  byName , byMethod, constructor and autodetect.
+3.  byName , byType, destructor and autodetect.
+4.  None of these.
+5.  byName , byType, constructor and autocorrect.
+
+10. Question
+All of the Spring’s Controllers inherit from an AbstractControllor?
+
+1.  false
+2.  true
+
+11. Question
+Which of the following Java Collection types can you inject in a Spring application?
+
+1.  None of these.
+2.  Using lit, set, map or collection tag.
+3.  Using list, collection, map or props tag.
+4.  Using list, set, map or props tag.
+5.  Using list, set, props or collection tag.
+
+12. Question
+Which of the following is a valid scope of the beans in portlet context?
+
+1.  prototype.
+2.  None of these.
+3.  session.
+4.  request.
+5.  global-session.
+
+13. Question
+Annotations work as metadata for classes and Spring uses annotations as an alternative to XML for declarative configuration. Is it true or false?
+
+1.  false
+2.  true
+Correct
+14. Question
+Which of the following specify the points where weaving can be applied?
+
+1.  None of these.
+2.  Compile Time , Classload Time , Runtime
+3.  Compile Time and Runtime.
+4.  Compile Time , Classload Time , load time.
+5.  Compile Time and Classload Time.
+
+15. Question
+Which of the following is a type of bean injection?
+
+1.  constructor and setter.
+2.  constructor and getter.
+3.  None of these.
+4.  getter and setter.
+5.  setter,getter and constructor.
+
+16. Question
+Which of the following exception classes is related to all the exceptions thrown in spring applications?
+
+1.  ArrayIndexOutofBound.
+2.  DataAccessException.
+3.  NullPointerException.
+4.  SpringException.
+5.  None of these.
+
+17. Question
+What is the default nature of the Beans defined in spring framework?
+
+1.  Abstract
+2.  Singleton
+3.  None of these.
+4.  Initialized
+5.  Final
+
+18. Question
+Which of the following beans isn’t significant for the WebApplicationContext?
+
+1.  Resolver.
+2.  Multipart file.
+3.  Handler exception resolver.
+4.  None of these.
+5.  Locale resolver.
+
+19. Question
+Which of the following is not a valid difference between @Inject and @Autowired annotations?
+1.  There is no difference and both can be used interchangeably.
+2.  @Inject annotation is part of Java EE 7’s Context and Dependency Injection framework while @Autowired is the Spring Frameworks own implementation.
+3.  None of these.
+4.  @Autowired is a legacy annotation whereas @Inject is its latest version.
+
+20. Question
+Which of the following statements is true for @RequestMapping annotation?
+
+1.  None of these.
+2.  Can be applied to the controller methods.
+3.  Can be applied to the controller classes.
+4.  Used to map web requests onto specific handler methods.
+5.  Used to map web requests onto specific handler classes.
